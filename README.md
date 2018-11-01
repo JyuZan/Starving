@@ -3,7 +3,7 @@ A small game develop by Kenneth Liang, Haomin He, Yanting Liu, and Gangyuan Hou 
 
 ## Overview
 
-In order to run the game, please install Unity3D on your mechine and open this folder as a project. 
+Please go to <a href = "https://classes.cs.uoregon.edu/17S/cis410gameprog/games/iAmStarving/">here</a> to play the demo.
 
 for a quick view of how the game is played click <a href ="https://youtu.be/vP-qNZm8BOg">here</a>
 
